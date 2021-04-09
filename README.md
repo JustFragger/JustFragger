@@ -1,6 +1,7 @@
 ### Hi there 👋
 My name is Matúš and I do stuff for @letshashit.
 Mostly moderating their Discord  server, but also coding in C# (still learning) or VB.net.
+- 🌱 I’m currently learning C# language.
 - 📫 How to reach me: Mostly on Discord as HyperAlly#2100
 
 
