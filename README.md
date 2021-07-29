@@ -3,6 +3,7 @@ My name is Matúš and I do stuff for [@letshashit](https://letshash.it/).
 Mostly moderating their Discord  server, but also learning to code in VB.net.
 - 📫 How to reach me: Mostly on Discord as HyperAlly#2100
 
+![JF](https://i.imgur.com/HyPe0Zs.png)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustFragger)](https://github.com/anuraghazra/github-readme-stats)
 <!--
